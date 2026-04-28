@@ -1,5 +1,16 @@
 # @scalar/api-client
 
+## 3.4.0
+
+### Minor Changes
+
+- [#8986](https://github.com/scalar/scalar/pull/8986): feat: ensure teams can have only one workspace and create default workspace of the team on demand
+- [#8986](https://github.com/scalar/scalar/pull/8986): chore: migrate api-client from namespaces to teamSlug and convert team workspaces
+
+### Patch Changes
+
+- [#8985](https://github.com/scalar/scalar/pull/8985): feat: allow masking all temp urls
+
 ## 3.3.1
 
 ### Patch Changes
